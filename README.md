@@ -1,4 +1,4 @@
-![AyeAye](https://github.com/shippableSamples/node-with-tests-coverage/blob/master/public/resources/images/captain.png)
+![AyeAye](https://github.com/shippableSamples/node-with-parallel-tests-coverage/blob/master/public/resources/images/captain.png)
 
 # Parallelized Continuous Integration for a Node JS application
 [![Run Status](https://api.shippable.com/projects/5885964211c45a1000af2ef6/badge?branch=master)](https://app.shippable.com/projects/5885964211c45a1000af2ef6)
