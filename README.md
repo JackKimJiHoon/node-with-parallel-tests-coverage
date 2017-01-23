@@ -1,12 +1,12 @@
 ![AyeAye](https://github.com/shippableSamples/node-with-tests-coverage/blob/master/public/resources/images/captain.png)
 
 # Continuous Integration for a Node JS application
-[![Run Status](https://api.shippable.com/projects/588579c63b653a0f00fa68d3/badge?branch=master)](https://app.shippable.com/projects/588579c63b653a0f00fa68d3)
-[![Coverage Badge](https://api.shippable.com/projects/588579c63b653a0f00fa68d3/coverageBadge?branch=master)](https://app.shippable.com/projects/588579c63b653a0f00fa68d3)
+[![Run Status](https://api.shippable.com/projects/5885964211c45a1000af2ef6/badge?branch=master)](https://app.shippable.com/projects/5885964211c45a1000af2ef6)
+[![Coverage Badge](https://api.shippable.com/projects/5885964211c45a1000af2ef6/coverageBadge?branch=master)](https://app.shippable.com/projects/5885964211c45a1000af2ef6)
 
 
 A simple Node JS application with unit tests and coverage reports using mocha 
-and istanbul.
+and istanbul. These tests are split into 4 parallel jobs using matrix functionality.
 
 ## Run CI for this repo on Shippable
 * Fork this repo into your local repo
@@ -15,6 +15,9 @@ and istanbul.
 * You should be able to run a manual build or webhook build on commit
 
 ## CI Reports on Shippable
+
+### CI Summary Report
+![CI Console Output](https://github.com/shippableSamples/node-with-tests-coverage/blob/master/public/resources/images/console.jpg)
 
 ### CI Console Output
 ![CI Console Output](https://github.com/shippableSamples/node-with-tests-coverage/blob/master/public/resources/images/console.jpg)
